@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+
 <concept id="concept_images_tables">
-    <title>Duckling growth and developmet</title>
-    <shortdesc></shortdesc>
-    <conbody>
-        <p></p>
-    </conbody>
+  
+    <title>Duckling growth and development</title>
+  
+        <conbody>
+  <p><image href="https://i.pinimg.com/originals/b2/ac/9d/b2ac9d8a2b1f3ca6be83d7ab46916543.jpg"/></p>
+  
+  </conbody>
 </concept>
