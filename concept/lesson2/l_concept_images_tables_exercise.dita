@@ -3,6 +3,61 @@
 <concept id="concept_images_tables_exercise">
  <title>Supporting marketing with technical content</title>
  <conbody>
+   
+   <p>Tech comm and marcom have long occupied opposite ends of the content spectrum. The stereotype is that tech comm is text-heavy, dense, and badly formatted whereas marcom is shiny, beautiful, and content-free. From there, the debate just intensifies:
+Marcom versus tech comm: the stereotypes</p>
+  <simpletable relcolwidth="1* 1* 1*" id="simpletable_lj5_nry_5sb">
+   <sthead>
+    <stentry/>
+    <stentry>
+     <p><b>Marcom</b></p>
+    </stentry>
+    <stentry><b>Tech comm</b></stentry>
+   </sthead>
+   <strow>
+    <stentry>
+     <p>Design or automation?</p>
+    </stentry>
+    <stentry>
+     <p>Design</p>
+    </stentry>
+    <stentry>
+     <p>Automation</p>
+    </stentry>
+   </strow>
+   <strow>
+    <stentry>
+     <p>How much detail?</p>
+    </stentry>
+    <stentry>
+     <p>As little as possible</p>
+    </stentry>
+    <stentry>
+     <p>As much as possible</p>
+    </stentry>
+   </strow>
+   <strow>
+    <stentry>Assumed impact on revenue</stentry>
+    <stentry>A lot</stentry>
+    <stentry>None</stentry>
+   </strow>
+   <strow>
+    <stentry>
+     <p>Primary purpose</p>
+    </stentry>
+    <stentry>
+     <p>Persuade people to buy</p>
+    </stentry>
+    <stentry>
+     <p>Inform people</p>
+    </stentry>
+   </strow>
+  </simpletable>
+  <p>Give people a friendly interface that lets them quickly narrow down their options and choose
+   the one they want. You don’t have to expose all of the fields in the database—just the ones that
+   help people narrow down their choices.</p>
+  <p><i>The product list on the right updates as you make selections on the left.</i></p>
+   
 
  </conbody>
 </concept>
