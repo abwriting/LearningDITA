@@ -15,11 +15,11 @@
        <p>Your content may look like this in HTML:
     <codeblock>&lt;div class="p">You may produce high-value content, such as the following:
 &lt;ul class="ul">
-&lt;li class="li">&lt;p class="p">Training materials&lt;p>&lt;li>
-&lt;li class="li">&lt;p class="p">White papers&lt;p>&lt;li>
-&lt;li class="li">&lt;p class="p">Knowledge base articles&lt;p>&lt;li>
+&lt;li class="li">&lt;p class="p">Training materials&lt;/p>&lt;/li>
+&lt;li class="li">&lt;p class="p">White papers&lt;/p>&lt;/li>
+&lt;li class="li">&lt;p class="p">Knowledge base articles&lt;/p>&lt;/li>
 &lt;/ul>
-&lt;div></codeblock> The <codeph>&lt;div></codeph> contains the unordered list.</p>
+&lt;/div></codeblock> The <codeph>&lt;div></codeph> contains the unordered list.</p>
          </section>
          <section>
            <title>Technical content is outdated because of inefficient updating process</title>
