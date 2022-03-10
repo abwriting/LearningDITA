@@ -75,6 +75,19 @@
         <cmd>Watch how the ducks interact with one another, what they’re eating, or how and when they preen.</cmd>
             </step>            
       </steps>
+    <result id="result_uq1_rln_vsb">
+      <p>The fresh air, exercise, and thrill of seeing wild ducks should give you an enhanced
+        feeling of well-being.</p>
+    </result>
+    <example>
+      <p>Don’t expect this kind of behavior:<xref href="http://dai.ly/x2j6pt1" format="html" scope="external">Duck Amuck</xref></p>
+      </example>
+    <postreq>
+      <ul>
+        <li>Watch the ducks again with a camera.</li>
+		<li>Go look for other birds.</li>
+		</ul>
+      </postreq>
     </taskbody>
 
 </task>
