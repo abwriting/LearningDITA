@@ -16,7 +16,7 @@
       <step>
         <cmd>Pick a field guide to identify the ducks.</cmd>
         <choices>
-          <choice>Many modern duck watchers rely on the Sibley guide</choice>
+          <choice>Many modern duck watchers rely on the Sibley guide.</choice>
           <choice>A traditional favorite is the Peterson guide.</choice>           
           </choices>
         </step>
