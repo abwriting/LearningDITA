@@ -4,13 +4,12 @@
     <title>Developing and implementing a content strategy</title>
     <taskbody>
         <steps id="steps_xmc_nh2_jt">
-            <stepsection>Create a content strategy.</stepsection>
+            <stepsection><b>Create a content strategy.</b></stepsection>
+          <br></br>
             <step>
                 <cmd>Identify and interview stakeholders.</cmd>
             </step>
             <step>
-                <note>Develop a business case that you can use to define what will make your project
-                    successful.</note>
                 <cmd>Establish implementation goals and metrics.</cmd>
             </step>
             <step>
@@ -25,7 +24,8 @@
             <step>
                 <cmd>Establish timeline and milestones.</cmd>
             </step>
-            <stepsection>Implement your content strategy.</stepsection>
+            <stepsection><b>Implement your content strategy.</b></stepsection>
+            <br></br>
             <step>
                 <cmd>Build the content creation system.</cmd>
             </step>
