@@ -5,7 +5,6 @@
     <taskbody>
         <steps id="steps_xmc_nh2_jt">
             <stepsection><b>Create a content strategy.</b></stepsection>
-          <br></br>
             <step>
                 <cmd>Identify and interview stakeholders.</cmd>
             </step>
@@ -25,7 +24,6 @@
                 <cmd>Establish time line and milestones.</cmd>
             </step>
             <stepsection><b>Implement your content strategy.</b></stepsection>
-            <br></br>
             <step>
                 <cmd>Build the content creation system.</cmd>
             </step>
