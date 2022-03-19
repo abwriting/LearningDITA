@@ -5,7 +5,20 @@
         <mainbooktitle>Content Strategy 101</mainbooktitle>
     </booktitle>
   
-  <chapter href="controlling_technical_communication_costs.dita">
+  <bookmeta>
+    <author>Abrar Syed</author><author>William Shakespeare</author>
+    <publisherinformation>
+      <organization>ABWriting</organization>
+    </publisherinformation>
+    <critdates>
+      <created date="2021"/>
+      <revised date="2022"/>
+    </critdates>
+  </bookmeta>
+  
+  <frontmatter><booklists><toc/></booklists></frontmatter>
+  
+    <chapter href="controlling_technical_communication_costs.dita">
     <topicref href="the_fallacy_of_low_cost_documentation.dita"/>
     <topicref href="efficient_technical_content_development.dita"/>
     <topicref href="reducing_the_cost_of_technical_support.dita">
@@ -37,6 +50,8 @@
       	<topicref href="technical_standards.dita"/>
       </topicref>
    </chapter>
+  
+  <backmatter><booklists><indexlist/></booklists></backmatter>
 
       
 </bookmap>
