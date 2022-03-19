@@ -44,7 +44,11 @@
             <topicref href="t_deleting_entry.dita"/>
             <topicref href="t_queries.dita"/>
             <topicref href="t_modify_table.dita"/>
-            <topicref href="r_tnav.dita"/>
+            <topicref href="r_tnav.dita" locktitle="yes">
+              <topicmeta>
+                <navtitle>The tNav command</navtitle>
+                </topicmeta>
+              </topicref>
             <topicref href="r_add.dita"/>
             <topicref href="r_delete.dita"/>
             <topicref href="r_edit.dita"/>
