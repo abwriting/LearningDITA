@@ -38,12 +38,17 @@
         </topicref>
     </chapter>
     <chapter href="c_duckdb.dita">
+      <topichead>
+        <topicmeta>
+          <navtitle>Common tasks</navtitle>
+          </topicmeta>
             <topicref href="t_create_table.dita"/>
             <topicref href="t_adding_entry.dita"/>
             <topicref href="t_modify_entry.dita"/>
             <topicref href="t_deleting_entry.dita"/>
             <topicref href="t_queries.dita"/>
             <topicref href="t_modify_table.dita"/>
+        </topichead>
             <topicref href="r_tnav.dita" locktitle="yes">
               <topicmeta>
                 <navtitle>The tNav command</navtitle>
