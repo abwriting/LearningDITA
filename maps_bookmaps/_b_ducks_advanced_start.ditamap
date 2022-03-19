@@ -4,7 +4,24 @@
     <booktitle>
         <mainbooktitle>Main book title</mainbooktitle>
     </booktitle>
+  
+  <bookmeta>
+    <author>Abrar Syed</author>
+    <bookrights>
+      <copyfirst>
+        <year>2021</year>
+        </copyfirst>
+      <copylast>
+        <year>2022</year>
+        </copylast>
+      <bookowner>
+        <organization>ABWriting</organization>
+        </bookowner>
+      </bookrights>
+    </bookmeta>
+  
     <chapter href="c_wild_ducks.dita">
+      <category>Wild ducks</category>
         <topicref href="c_wild_duck_types.dita"/>
         <topicref href="c_wild_duck_species.dita"/>
         <topicref href="t_watching_wild_ducks.dita"/>
